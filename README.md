@@ -1,4 +1,4 @@
-# JVRC-1 humanoid robot model
+# JVRC humanoid robot model
 
 <img src="https://scaron.info/images/jvrc1-model.png" width="250" align="right" />
 
