@@ -1,6 +1,6 @@
 # JVRC-1 humanoid robot model
 
-<img src="https://scaron.info/doc/pymanoid/_images/inverse_kinematics.png" width="400" align="right" />
+<img src="https://scaron.info/images/jvrc1-model.png" width="400" align="right" />
 
 This package contains the robot description for the JVRC-1 model, a virtual humanoid robot released for education and research.
 
