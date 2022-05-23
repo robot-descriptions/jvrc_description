@@ -1,4 +1,4 @@
 __pycache__
 dist
-upkie_description/meshes
-upkie_description/urdf
+jvrc_description/meshes
+jvrc_description/urdf

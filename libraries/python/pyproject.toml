@@ -31,9 +31,9 @@ dependencies = [
 ]
 
 [project.urls]
-Source = "https://github.com/tasts-robots/jvrc_description"
-Tracker = "https://github.com/tasts-robots/jvrc_description/issues"
-Changelog = "https://github.com/tasts-robots/jvrc_description/blob/master/CHANGELOG.md"
+Source = "https://github.com/stephane-caron/jvrc_description"
+Tracker = "https://github.com/stephane-caron/jvrc_description/issues"
+Changelog = "https://github.com/stephane-caron/jvrc_description/blob/master/CHANGELOG.md"
 
 [tool.black]
 line-length = 79
