@@ -4,9 +4,36 @@
 
 This package contains the robot description for the JVRC-1 model, a virtual humanoid robot released for education and research.
 
-## History
+## Python module
 
-The model files in this repository come from [mc\_rtc\_data](https://github.com/jrl-umi3218/mc_rtc_data), a collection of robot and environment models distributed with the [mc\_rtc](https://jrl-umi3218.github.io/mc_rtc/) framework. The JVRC-1 model was initially created in VRML format at [jvrc/model](https://github.com/jvrc/model) and converted to URDF using [simtrans](https://github.com/fkanehiro/simtrans).
+This module helps retrieve the JVRC-1 model from a Python program. Import it by:
+
+```python
+import jvrc_description
+```
+
+It then provides the following paths:
+
+<dl>
+    <dt>
+        <code>jvrc_description.path</code>
+    </dt>
+    <dd>
+        Path to the <code>jvrc_description</code> folder itself.
+    </dd>
+    <dt>
+        <code>jvrc_description.meshes_path</code>
+    </dt>
+    <dd>
+        Path to the <code>meshes</code> folder.
+    </dd>
+    <dt>
+        <code>jvrc_description.urdf_path</code>
+    </dt>
+    <dd>
+        Path to the <code>jvrc1.urdf</code> URDF file of the model.
+    </dd>
+</dl>
 
 ## Show and tell
 
