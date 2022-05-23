@@ -2,8 +2,8 @@
 
 <img src="https://scaron.info/images/jvrc1-model.png" width="250" align="right" />
 
-[![PyPI version](https://img.shields.io/pypi/v/upkie_description)](https://pypi.org/project/upkie_description/)
-![Status](https://img.shields.io/pypi/status/upkie_description)
+[![PyPI version](https://img.shields.io/pypi/v/jvrc_description)](https://pypi.org/project/jvrc_description/)
+![Status](https://img.shields.io/pypi/status/jvrc_description)
 
 This package contains the robot description for the JVRC-1 model, a virtual humanoid robot released for education and research.
 
