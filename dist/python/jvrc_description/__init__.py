@@ -31,7 +31,7 @@ URDF description of the JVRC humanoid model.
 
 import os
 
-__version__ = "1.0.0.5"
+__version__ = "1.1.0"
 
 # Path to jvrc_description
 path = os.path.dirname(os.path.realpath(__file__))
