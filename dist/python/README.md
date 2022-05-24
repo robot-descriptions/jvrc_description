@@ -21,18 +21,18 @@ It then provides the following paths:
         <code>jvrc_description.path</code>
     </dt>
     <dd>
-        Path to the <code>jvrc_description</code> folder itself.
+        Path to the "jvrc_description" folder itself.
     </dd>
     <dt>
         <code>jvrc_description.meshes_path</code>
     </dt>
     <dd>
-        Path to the <code>meshes</code> folder.
+        Path to the "meshes" folder.
     </dd>
     <dt>
         <code>jvrc_description.urdf_path</code>
     </dt>
     <dd>
-        Path to the <code>jvrc1.urdf</code> URDF file of the model.
+        Path to the URDF file of the model.
     </dd>
 </dl>
