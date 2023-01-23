@@ -4,6 +4,8 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/jvrc_description)](https://pypi.org/project/jvrc_description/)
 
+:warning: **This module has been deprecated in favor of [`robot_descriptions`](https://github.com/robot-descriptions/robot_descriptions.py).**
+
 This package contains the robot description for the JVRC-1 model, a virtual humanoid robot released for education and research.
 
 ## Python module
