@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<package>
+<package format="3">
   <name>jvrc_description</name>
   <version>1.0.4</version>
   <description>Description package for the JVRC-1 robot</description>
@@ -22,5 +22,11 @@
 
   <url>https://github.com/robot-descriptions/jvrc_description</url>
 
-  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <exec_depend>urdf</exec_depend>
+  <exec_depend>xacro</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
 </package>

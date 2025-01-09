@@ -1,10 +1,10 @@
-cmake_minimum_required(VERSION 3.1)
+cmake_minimum_required(VERSION 3.5)
 project(jvrc_description VERSION 1.0.4)
 
-find_package(catkin)
+find_package(ament_cmake REQUIRED)
 
-catkin_package()
-
-install(DIRECTORY meshes rsdf urdf
-    DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
+install(DIRECTORY launch meshes rsdf urdf
+    DESTINATION share/${PROJECT_NAME}
 )
+
+ament_package()
